@@ -24,6 +24,9 @@ assert node
 from fabfile import nginx
 assert nginx
 
+from fabfile import nix
+assert nix
+
 from fabfile import admin
 assert admin
 
